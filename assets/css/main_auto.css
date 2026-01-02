@@ -1929,7 +1929,7 @@ input, select, textarea {
 				height: 3em;
 				text-align: center;
 				border-radius: 5px;
-				background: #888;
+				background: #00000000;
 				-moz-transition: background-color .25s ease-in-out;
 				-webkit-transition: background-color .25s ease-in-out;
 				-ms-transition: background-color .25s ease-in-out;
@@ -1937,25 +1937,25 @@ input, select, textarea {
 			}
 
 				ul.social li a:before {
-					color: #fff;
+					color: #00000000;
 					font-size: 2em;
 					line-height: 1.5em;
 				}
 
 				ul.social li a.fa-facebook {
-					background: #3c5a98;
+					background: #000000;
 				}
 
 					ul.social li a.fa-facebook:hover {
-						background: #4c6aa8;
+						background: #000000;
 					}
 
 				ul.social li a.fa-twitter {
-					background: #2daae4;
+					background: #000000;
 				}
 
 					ul.social li a.fa-twitter:hover {
-						background: #3dbaf4;
+						background: #000000;
 					}
 
 				ul.social li a.fa-dribbble {
